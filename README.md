@@ -33,3 +33,7 @@ try:
 	except subprocess.CalledProcessError as e:
 		print(f"Error: {e}")
 ```
+
+# Credit
+
+Original credit: https://thepythoncode.com/article/create-reverse-shell-python
