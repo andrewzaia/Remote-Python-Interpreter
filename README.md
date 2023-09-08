@@ -1,5 +1,5 @@
 
-# glowing-fishstick
+# Remote-Python-Interpreter a.k.a glowing-fishstick
 
 This project was started as a result of Cyber Security studies, created purely for testing purposes to demonstrate ability to access web servers with python interpreters and read/write access.
 
